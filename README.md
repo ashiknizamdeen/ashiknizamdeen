@@ -12,6 +12,7 @@
 
 <a href="#"><img align="left" alt="java" title="java" width="21px" src="https://cdn.worldvectorlogo.com/logos/java.svg" /></a>
 <a href="#"><img align="left" alt="react" title="react" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
+<a href="https://flutter.dev/"><img align="left" alt="flutter" title="flutter" width="21px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" /></a>
 <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" /></a>
 <a href="https://nextjs.org/"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="sql" title="sql" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" /></a>
