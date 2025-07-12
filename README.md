@@ -31,7 +31,7 @@
 
 <a href="#"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
 <a href="#"><img align="left" alt="express" title="express" width="29px" src="https://www.pngfind.com/images/lazy-bg.png"/></a>
-<a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a></br>
+<a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
 <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
   <br>
