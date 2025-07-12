@@ -24,8 +24,7 @@
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></a>
 <a href="#"><img align="left" alt="powershell" title="powershell" width="25px" src="https://github.com/user-attachments/assets/62247514-28e7-4658-ab76-716bcbc25a43" /></a>
 <a href="#"><img align="left" alt="AWS" title="AWS" width="25px" src="https://github.com/user-attachments/assets/975cc9a5-85ea-4f44-b016-12cce3932e5f" /></a>
-<a href="laravel.com">
-<img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
+<a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://github.com/user-attachments/assets/c321c828-bff1-437f-80b3-425843d26785" /></a>
 
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
