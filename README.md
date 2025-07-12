@@ -12,8 +12,8 @@
 
 <a href="#"><img align="left" alt="java" title="java" width="21px" src="https://cdn.worldvectorlogo.com/logos/java.svg" /></a>
 <a href="#"><img align="left" alt="react" title="react" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://nodejs.org/static/logos/nodejsStackedDark.svg" /></a>
-<a href="https://nextjs.org/"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" /></a>
+<a href="https://nextjs.org/"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="sql" title="sql" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" /></a>
 <a href="#"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
 <a href="#"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
@@ -30,7 +30,7 @@
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
 <a href="#"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
-<a href="#"><img align="left" alt="express" title="express" width="29px" src="https://www.pngfind.com/images/lazy-bg.png"/></a>
+<a href="#"><img align="left" alt="express" title="express" width="29px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3b1Txj9aSBQfUSQzCZBO-Q.png"/></a>
 <a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
 <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
