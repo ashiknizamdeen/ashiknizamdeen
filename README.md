@@ -21,7 +21,6 @@
 <a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
-<a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" /></a>
 <a href="#"><img align="left" alt="powershell" title="powershell" width="25px" src="https://github.com/user-attachments/assets/62247514-28e7-4658-ab76-716bcbc25a43" /></a>
 <a href="#"><img align="left" alt="AWS" title="AWS" width="25px" src="https://github.com/user-attachments/assets/975cc9a5-85ea-4f44-b016-12cce3932e5f" /></a>
 <a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
@@ -30,7 +29,7 @@
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
 <a href="#"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
-<a href="#"><img align="left" alt="express" title="express" width="29px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*3b1Txj9aSBQfUSQzCZBO-Q.png"/></a>
+<a href="#"><img align="left" alt="express" title="express" width="29px" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp"/></a>
 <a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
 <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
