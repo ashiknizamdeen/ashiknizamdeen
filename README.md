@@ -17,8 +17,8 @@
 <a href="https://nextjs.org/"><img align="left" alt="NextJS" title="NextJS" width="21px" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="sql" title="sql" width="21px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" /></a>
 <a href="https://icons.getbootstrap.com/"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
-<a href="#"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
-<a href="#"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
+<a href="https://sass-lang.com/"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
 <a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
