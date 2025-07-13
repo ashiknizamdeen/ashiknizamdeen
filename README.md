@@ -1,4 +1,4 @@
-# 🌟 Hello, World! 👋
+# 🌟 Hey there! 👋
 
 - **🔭 Currently:** Full-time Full Stack Developer integrating **AI** and **Web Frameworks**! 🚀
 - **🌱 Learning:**  Always exploring the latest tech trends, including Web Frameworks, Data Science, AI, and cybersecurity!
