@@ -29,8 +29,8 @@
 
  <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
-<a href="#"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
-<a href="#"><img align="left" alt="express" title="express" width="29px" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp"/></a>
+<a href="https://www.npmjs.com/"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
+<a href="https://expressjs.com/"><img align="left" alt="express" title="express" width="29px" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp"/></a>
 <a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
 <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
