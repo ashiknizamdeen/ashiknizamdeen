@@ -1,6 +1,6 @@
 # 🌟 Hey there! 👋
 
-- **🔭 Currently:** Full-time Full Stack Developer integrating **AI** and **Web Frameworks**! 🚀
+- **🔭 Currently:** Full-time Full Stack Developer working with latest **Web Frameworks** and integrating **AI Features**! 🚀
 - **🌱 Learning:**  Always exploring the latest tech trends, including Web Frameworks, Data Science, AI, and cybersecurity!
 - **👯 Collaboration:** Looking to team up with Web developers—let’s create something great!
 - **💬 Frontend Guru:** Ask me anything about Frontend development!
