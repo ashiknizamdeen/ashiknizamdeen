@@ -19,7 +19,7 @@
 <a href="https://icons.getbootstrap.com/"><img align="left" alt="bootstrap" title="bootstrap" width="21px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-icon.svg" /></a>
 <a href="https://sass-lang.com/"><img align="left" alt="sass" title="sass" width="21px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></a>
 <a href="https://tailwindcss.com/"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
-<a href="#"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
+<a href="https://www.python.org/"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="#"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
 <a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
 <a href="#"><img align="left" alt="powershell" title="powershell" width="25px" src="https://github.com/user-attachments/assets/62247514-28e7-4658-ab76-716bcbc25a43" /></a>
