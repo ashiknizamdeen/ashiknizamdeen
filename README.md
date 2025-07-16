@@ -22,7 +22,7 @@
 <a href="https://tailwindcss.com/"><img align="left" alt="tailwind" title="tailwind" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="python" title="python" width="21px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" /></a>
 <a href="https://www.linux.org/"><img align="left" alt="linux" title="linux" width="21px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" /></a>
-<a href="#"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
+<a href="https://git-scm.com/downloads"><img align="left" alt="git bash" title="git bash" width="21px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" /></a>
 <a href="#"><img align="left" alt="powershell" title="powershell" width="25px" src="https://github.com/user-attachments/assets/62247514-28e7-4658-ab76-716bcbc25a43" /></a>
 <a href="#"><img align="left" alt="AWS" title="AWS" width="25px" src="https://github.com/user-attachments/assets/975cc9a5-85ea-4f44-b016-12cce3932e5f" /></a>
 <a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
