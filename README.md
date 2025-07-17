@@ -28,7 +28,7 @@
 <a href="laravel.com"><img align="left" alt="laravel" title="laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="php.net"><img align="left" alt="php" title="php" width="21px" src="https://github.com/user-attachments/assets/c321c828-bff1-437f-80b3-425843d26785" /></a>
 
- <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+ <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
 <a href="https://www.npmjs.com/"><img align="left" alt="npm" title="npm" width="29px" src="https://cdn.worldvectorlogo.com/logos/npm.svg" /></a>
 <a href="https://expressjs.com/"><img align="left" alt="express" title="express" width="29px" src="https://netforemost.com/wp-content/uploads/2024/08/1646733543-1.webp"/></a>
