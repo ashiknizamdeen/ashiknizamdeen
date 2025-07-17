@@ -35,6 +35,7 @@
 <a href="vuejs.org"><img align="left" alt="svlet" title="svlet" width="21px" src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" /></a>
 <a href="vuejs.org"><img align="left" alt="vue" title="vue" width="21px" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" /></a>
 <a href="nuxtjs.org"><img align="left" alt="vue nuxt" title="vue nuxt" width="21px" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg" /></a>
+<a href="https://www.selenium.dev/"><img align="left" alt="selenium" title="selenium" width="21px" src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" /></a>
   <br>
   <br>
 
